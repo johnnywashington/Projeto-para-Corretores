@@ -1,4 +1,4 @@
-<h1 align="center">Previsão do Tempo</h1>
+<h1 align="center">Projeto para Corretores de imoveis</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A previsão do tempo foi um projeto desenvolvido como pratica de estudos.
+Esse Projeto foi desenvolvido para um cliente, que queria divulgar o lancamento de alguns apartamentos.
 
 ## 🔖 Layout
 
